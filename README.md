@@ -5,9 +5,9 @@ Název projektu
 
 Autoři
 
-Maksym Kokish 
-Bohumil Hera
-Hoang Minh Phu An 
+Maksym Kokish, 
+Bohumil Hera,
+Hoang Minh Phu An
 
 Co projekt obsahuje
 
