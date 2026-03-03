@@ -10,24 +10,27 @@
     <h1>Lyžařský kurz pro prváky střední školy na Třebešíně</h1>
     <p>Lyžařský kurz pro prváky na střední škole na Třebešíně je skvělou příležitostí, jak spojit sport, zábavu a poznávání nových spolužáků. Během několika dní na horách si studenti osvojí základy lyžování či snowboardingu, zdokonalí svou techniku a zažijí spoustu nezapomenutelných momentů. Kurz podporuje týmového ducha, samostatnost i budování nových přátelství hned na začátku studia.</p>
     <form>
-        <label>Jméno a příjmení</label>
-        <input type="text" name="jmeno a prijmeni" placeholder="jméno a příjmení">
-    <br>
+        <fieldset>
+            <legend>Přihláška na lyžařský kurz</legend>
+                <label>Jméno a příjmení</label>
+                <input type="text" name="jmeno a prijmeni" placeholder="jméno a příjmení">
+            <br>
 
-        <label>email</label>
-        <input type="email" name="email" placeholder="email">
-    <br>
-        <label for="skill">Jak moc dobře umíte lyžovat / snowboardovat?</label>
-            <select id="skill" name="skill">
-                <option value="zacatecnik">Začátečník</option>
-                <option value="mirne_pokrocily">Mírně pokročilý</option>
-                <option value="pokrocily">Pokročilý</option>
-                <option value="expert">Expert</option>
-            </select>
-    <br>
-        <label for="alergie">Alergie:</label>
-        <textarea id="alergie" name="alergie"></textarea>
-    <br>
+                <label>email</label>
+                <input type="email" name="email" placeholder="email">
+            <br>
+                <label for="skill">Jak moc dobře umíte lyžovat / snowboardovat?</label>
+                    <select id="skill" name="skill">
+                        <option value="zacatecnik">Začátečník</option>
+                        <option value="mirne_pokrocily">Mírně pokročilý</option>
+                        <option value="pokrocily">Pokročilý</option>
+                        <option value="expert">Expert</option>
+                    </select>
+            <br>
+                <label for="alergie">Alergie:</label>
+                <textarea id="alergie" name="alergie"></textarea>
+            <br>
+        </fieldset>
         <button type="submit">Odeslat</button>
     </form>
 
