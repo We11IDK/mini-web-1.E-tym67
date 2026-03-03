@@ -28,11 +28,11 @@ formulář
 
 Jak jsme si rozdělili práci
 
-Maksym Kokish – design webu + organizacni info a GITHUB editing
+Maksym Kokish –hledal inspiraci u sousedů
 
 Hoang Minh Phu An – vytvořil strukturu webu (HTML)
 
-Bohumil Hera – vytvořil stylování stránky (CSS)
+Bohumil Hera – vytvořil stylování stránky (CSS) napsal read me
 
 Postup práce
 
