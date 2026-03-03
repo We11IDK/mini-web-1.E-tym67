@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    background-color: #f2f2f2;
+}
+
+
+h1 {
+    color: darkblue;
+    cursor: url("kurzor.webp"), auto;
+}
+
+
+input {
+    padding: 10px;
+    width: 250px;
+    border: 2px solid gray;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+
+button {
+    padding: 12px 25px;
+    margin-top: 15px;
+    background-color: darkblue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: help;
+}
+
+
+button:hover{
+    background-color:pink;
+    text-decoration: underline;
+}
+
+button.active{
+    background-color: black;
+    transform: scale(.0.70);
+}
