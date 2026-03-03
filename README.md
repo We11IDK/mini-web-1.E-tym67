@@ -28,7 +28,7 @@ formulář
 
 Jak jsme si rozdělili práci
 
-Maksym Kokish – podílel se na přípravě projektu
+Maksym Kokish – design webu + organizacni info a GITHUB editing
 
 Hoang Minh Phu An – vytvořil strukturu webu (HTML)
 
