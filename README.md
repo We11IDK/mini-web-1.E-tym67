@@ -1,49 +1,49 @@
 # mini-web-1.E-tym67
 Název projektu
 
-Školní akce – Lyžák
+❄️Školní akce – Lyžák⛷️
 
 Autoři
 
-Maksym Kokish 
+Maksym Kokish ⚽
 
-Bohumil Hera 
+Bohumil Hera 🎿
 
-Hoang Minh Phu An 
+Hoang Minh Phu An ✨
 
 Co projekt obsahuje
 
 Projekt je webová stránka zaměřená na školní lyžařský kurz (lyžák).
 Obsahuje:
 
-Úvodní oznámení o konání akce
+Úvodní oznámení o konání akce⛷️
 
-Informace o lyžařském kurzu
+Informace o lyžařském kurzu🏆
 
-Přihlašování na akci
+Přihlašování na akci🎿
 
-formulář
+formulář🏂
 
 
 
 Jak jsme si rozdělili práci
 
-Maksym Kokish –design webu + organizacni info a GITHUB editing
+Maksym Kokish –design webu + organizacni info a GITHUB editing⚡️
 
-Hoang Minh Phu An – vytvořil strukturu webu (HTML)
+Hoang Minh Phu An – vytvořil strukturu webu (HTML)✨
 
-Bohumil Hera – vytvořil stylování stránky (CSS) napsal read me
+Bohumil Hera – vytvořil stylování stránky (CSS) napsal read me🏂
 
 Postup práce
 
-Domluva na tématu projektu (školní lyžařský kurz).
+Domluva na tématu projektu (školní lyžařský kurz).❄️
 
-Návrh struktury webové stránky.
+Návrh struktury webové stránky.🎿
 
-Vytvoření základního souboru index.html.
+Vytvoření základního souboru index.html.⚡️
 
-Přidání stylování pomocí CSS.
+Přidání stylování pomocí CSS.🏆
 
-Testování funkčnosti a úprava chyb.
+Testování funkčnosti a úprava chyb.⛷️
 
-Kontrola a finální úpravy projektu.
+Kontrola a finální úpravy projektu.⛸️
